@@ -15,7 +15,7 @@ This repository contains a collection of Verilog-based lab tasks. These tasks we
 ## 📁 Topics Covered
 
 - 16-Bit RISC Processor Design  
-- 4-Bit Adders (Ripple Carry, Carry Look-Ahead)  
+- 4-Bit Adders (Ripple Carry, Carry Look-Ahead, Carry Select-Adder)  
 - 4-Bit ALU Design  
 - BCD Counter  
 - 4-Bit Binary Counter  
