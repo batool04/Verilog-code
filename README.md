@@ -1,6 +1,6 @@
 # 💻 Verilog Lab Projects – FPGA Implementation (Vivado)
 
-This repository contains a collection of Verilog-based lab projects completed during my undergraduate coursework. These tasks were developed using **Vivado** and deployed on the **Arty A7-100 FPGA board**.
+This repository contains a collection of Verilog-based lab tasks. These tasks were developed using **Vivado** and deployed on the **Arty A7-100 FPGA board**.
 
 ---
 
